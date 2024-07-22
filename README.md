@@ -16,6 +16,7 @@ The project includes several key components organized into different packages
 based on **MVC architecture**.
 
 **stonegame.controller**: Manages the flow of the game, including starting a new game and handling player turns.
+
 **stonegame.model**: Contains the core game logic, data models, and storage mechanisms.
 
 ## Game Features
