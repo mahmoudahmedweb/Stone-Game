@@ -44,14 +44,13 @@ JUnit 5 is used to test:
 
 ## Libraries and Frameworks
 The project utilizes the following key libraries and frameworks:
-
-JavaFX: For creating the game UI.
-JUnit 5: For unit testing.
-Jackson: For JSON processing.
-Log4j: For logging.
-Javadoc: For documentation.
-JaCoCo: For code coverage analysis.
-Checkstyle: For ensuring code quality and style compliance.
+- JavaFX: For creating the game UI.
+- JUnit 5: For unit testing.
+- Jackson: For JSON processing.
+- Log4j: For logging.
+- Javadoc: For documentation.
+- JaCoCo: For code coverage analysis.
+- Checkstyle: For ensuring code quality and style compliance.
 
 ## Author
 - The project was developed by Mahmoud Ahmed Ramadan.
