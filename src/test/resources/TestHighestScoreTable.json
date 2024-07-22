@@ -1,0 +1,47 @@
+[
+  {
+    "player1Name": "PlayerA",
+    "player2Name": "PlayerB",
+    "numberOfTurnsOfPlayer1": 10,
+    "numberOfTurnsOfPlayer2": 8,
+    "gameWinner": "PlayerA",
+    "startingDateAndTime": "2024-06-08T12:00:00",
+    "lastPlayer": "PlayerA"
+  },
+  {
+    "player1Name": "PlayerA",
+    "player2Name": "PlayerD",
+    "numberOfTurnsOfPlayer1": 15,
+    "numberOfTurnsOfPlayer2": 12,
+    "gameWinner": "PlayerA",
+    "startingDateAndTime": "2024-06-08T13:00:00",
+    "lastPlayer": "PlayerA"
+  },
+  {
+    "player1Name": "PlayerB",
+    "player2Name": "PlayerF",
+    "numberOfTurnsOfPlayer1": 5,
+    "numberOfTurnsOfPlayer2": 3,
+    "gameWinner": "PlayerB",
+    "startingDateAndTime": "2024-06-08T14:00:00",
+    "lastPlayer": "PlayerB"
+  },
+  {
+    "player1Name": "PlayerC",
+    "player2Name": "PlayerB",
+    "numberOfTurnsOfPlayer1": 7,
+    "numberOfTurnsOfPlayer2": 9,
+    "gameWinner": "PlayerC",
+    "startingDateAndTime": "2024-06-08T15:00:00",
+    "lastPlayer": "PlayerC"
+  },
+  {
+    "player1Name": "PlayerC",
+    "player2Name": "PlayerJ",
+    "numberOfTurnsOfPlayer1": 11,
+    "numberOfTurnsOfPlayer2": 13,
+    "gameWinner": "PlayerC",
+    "startingDateAndTime": "2024-06-08T16:00:00",
+    "lastPlayer": "PlayerC"
+  }
+]

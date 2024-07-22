@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="449.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="stonegame.controller.MainMenuController">
+    <children>
+        <Label layoutX="82.0" layoutY="26.0" prefHeight="58.0" prefWidth="460.0" text="Welcome, adventurer! The game awaits" textAlignment="CENTER">
+            <font>
+                <Font size="27.0" />
+            </font>
+        </Label>
+        <ImageView fitHeight="272.0" fitWidth="316.0" layoutX="164.0" layoutY="84.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@images/background.jpg" />
+            </image>
+        </ImageView>
+        <Button layoutX="53.0" layoutY="370.0" mnemonicParsing="false" onAction="#playNewGame" prefHeight="42.0" prefWidth="139.0" text="Play">
+         <font>
+            <Font size="21.0" />
+         </font></Button>
+      <Button layoutX="205.0" layoutY="370.0" mnemonicParsing="false" onAction="#openHighestScoreTable" prefHeight="42.0" prefWidth="190.0" text="High-Score Table">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button layoutX="406.0" layoutY="370.0" mnemonicParsing="false" onAction="#quit" prefHeight="42.0" prefWidth="107.0" text="Quit">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>

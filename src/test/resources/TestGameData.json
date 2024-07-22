@@ -1,0 +1,20 @@
+[
+  {
+    "player1Name": "PlayerA",
+    "player2Name": "PlayerB",
+    "numberOfTurnsOfPlayer1": 10,
+    "numberOfTurnsOfPlayer2": 8,
+    "gameWinner": "PlayerA",
+    "startingDateAndTime": "2024-06-08T10:30:00",
+    "lastPlayer": "PlayerA"
+  },
+  {
+    "player1Name": "PlayerC",
+    "player2Name": "PlayerD",
+    "numberOfTurnsOfPlayer1": 15,
+    "numberOfTurnsOfPlayer2": 12,
+    "gameWinner": "PlayerC",
+    "startingDateAndTime": "2024-06-08T12:45:00",
+    "lastPlayer": "PlayerD"
+  }
+]
